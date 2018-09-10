@@ -1,4 +1,4 @@
-# Dfinity Name Service
+![Dfinity Name Service](./assets/title.jpg)
 
 > 📖🔍 Documents of the Dfinity Name Service.
 
